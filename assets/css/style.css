@@ -132,7 +132,6 @@ button:hover {
 
 /*! Mobile Mode View */
 @media screen and (max-width: 768px) {
-
     /** Page Structures */
     img {
         width: 100%;

@@ -59,4 +59,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - GitHub [@ProboKrishnacahya](https://github.com/ProboKrishnacahya)
 - Twitter [@pkrishnacahya](https://twitter.com/pkrishnacahya)
 
-<hr />
+---
+
+`2022 - Probo Krishnacahya`

@@ -28,7 +28,7 @@ footer {
     font-family: var(--font-tertiary);
     font-size: 14px;
     text-align: center;
-    color: #BDBDBD;
+    color: var(--footer);
 }
 
 html {
@@ -100,6 +100,7 @@ img {
     --color-primary: #333333;
     --color-secondary: #FFFFFF;
     --color-tertiary: #4F4F4F;
+    --footer: #BDBDBD;
 }
 
 a:hover {
